@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coding" width="800" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+  <img alt="Coding" width="800" src="https://camo.githubusercontent.com/c1d5e9bcfd8bd9c5cd549a25f15a8a72a12a0d55b81e35ed75ffe212435934eb/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966">
 </p>
 <h1 align="center">Hi 👋, I'm Muhammad Muzammil</h1>
 <h3 align="center">A passionate frontend developer from Pakistan..</h3>
